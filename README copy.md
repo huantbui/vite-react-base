@@ -1,17 +1,5 @@
 # React + TypeScript + Vite
 
-
-
-## Stack
-- vite
-- react
-- tailwind
-- tanstack router
-- react-hook-form
-- zod
-- shadcn-ui@latest (ui component builder)
-
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
